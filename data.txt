@@ -1,0 +1,8 @@
+this are the original contents of the file :
+
+how to read a file:
+file = open(filename, r)
+
+how to write a file:
+file = open(filename, w)
+file.write()
